@@ -4,14 +4,19 @@
 	<title>Cohort 18</title>
 
 	<link rel="stylesheet" type="text/css" href="lib/node_modules/flexboxgrid/dist/flexboxgrid.min.css">
-
-
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
-<body>
+<body ng-app="ClassWebsite">
 
-<h1>Cohort 18</h1>
-<p>Yo</p>
+
+<div class="container-fluid">
+	<!-- This refers to the home.html -->
+	<div ui-view>						
+	</div>
+</div>
+
+
+
 
 
 <!-- Dependencies -->
@@ -26,6 +31,12 @@
 <script type="text/javascript" src="lib/node_modules/angular-ui-bootstrap/src/modal/modal.js"></script>
 
 
+<!-- APP -->
 <script type="text/javascript" src="app/app.js"></script>
+
+<!-- CONTROLLERS -->
+<script type="text/javascript" src="app/controllers/HomeCtrl.js"></script>
+<script type="text/javascript" src="app/controllers/StudentProfilesCtrl.js"></script>
+
 </body>
 </html>
