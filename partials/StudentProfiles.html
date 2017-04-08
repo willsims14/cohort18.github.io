@@ -1,20 +1,29 @@
 <div class="row">
 	<div class="col-xs-4" style="margin-top: 2em; margin-bottom: 2em;"
 			 ng-repeat="student in studentList"
-			 ng-mouseenter="setProfileMouseEnter($index)"
-			 ng-mouseleave="setProfileMouseLeave()">
+			 ng-mouseenter="currentProfileMouseover = $index"
+			 ng-mouseleave="currentProfileMouseover = null">
 
 		<div class="row">
 			<div class="col-xs-10 col-xs-offset-1 thumbnail" style="margin: auto; width: 425px; height: 425px; background-color: lightgrey"></div>
 		</div>
-		<div class="row"
-				 ng-show="currentProfileMouseover === $index">
+	
+		<div class="row">
 			<div class="col-xs-10 col-xs-offset-1">
-				<h3>{{student.name}}</h3>
-				<p><a href="{{student.website}}">website</a></p>
-				<p>linkedIn: {{student.linkedin}}</p>
-				<p>github: {{student.github}}</p>
+				<uib-accordion ng-show="currentProfileMouseover === $index">
+					<div uib-accordion-group class="panel-default">
+			      <uib-accordion-heading>
+			        I can have markup, too! <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+			      </uib-accordion-heading>
+			      <div class="col-xs-10 col-xs-offset-1">
+							<h3>{{student.name}}</h3>
+							<p><a href="{{student.website}}">website</a></p>
+							<p>linkedIn: {{student.linkedin}}</p>
+							<p>github: {{student.github}}</p>
+						</div>
+			    </div>
+			  </uib-accordion>				
 			</div>
-		</div>		
+		</div>	
 	</div>
 </div>

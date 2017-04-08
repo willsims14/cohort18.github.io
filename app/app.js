@@ -4,6 +4,10 @@
 //Using angular-ui-route and angular-ui-bootstrap
 var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 
+.service('StudentProfiles', function() {
+	this.studentArray = [];
+})
+
 .config(function($stateProvider, $urlRouterProvider) {
 				
 				// HOME STATES AND NESTED VIEWS ========================================
@@ -35,6 +39,14 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 	        	}
 	        });
 	
+})
+
+.run(($http, StudentProfiles) => {
+
+	$http.get('../StudentProfiles.json').then(
+			(studentProfiles) => StudentProfiles.studentArray = studentProfiles.data
+		);
+
 });
 
 
