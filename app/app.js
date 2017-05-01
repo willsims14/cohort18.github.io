@@ -13,34 +13,34 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 })
 
 .config(function($stateProvider, $urlRouterProvider) {
-				
+
 
 				$urlRouterProvider.otherwise('/cohort-18');
-				// HOME STATES AND NESTED VIEWS ========================================				
+				// HOME STATES AND NESTED VIEWS ========================================
 
 				$stateProvider
 					//Home handles everything
-					.state('home', {			
-						url: '/cohort-18',	
+					.state('home', {
+						url: '/cohort-18',
 						views: {
 							"": {
 								templateUrl: 'partials/Home.html',
 								controller: 'HomeCtrl'
-							},						
+							},
 							//studentProfiles handles all of the individual profiles displayed on the page
-              "studentProfiles@home": { 
+              "studentProfiles@home": {
               	templateUrl: 'partials/StudentProfiles.html',
-              	controller: "StudentProfilesCtrl"              	
-              }                    
-            }						
-					});      		   		       	       	       
-	
+              	controller: "StudentProfilesCtrl"
+              }
+            }
+					});
+
 })
 
 
 /*
 	As soon s the page runs, we make a call to our JSON file representing all students.
-	This JSON array gets assigned to StudentProfiles.studentArray to be iterated over 
+	This JSON array gets assigned to StudentProfiles.studentArray to be iterated over
 	There is a $s.$watch() that waits for this to be completed within HomeCtrl.js
 	The array gets iterated over within StudentProfiles.html
 */
@@ -51,6 +51,3 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 		);
 
 });
-
-
-
