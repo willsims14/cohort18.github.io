@@ -8,15 +8,11 @@ body {
   height: 100%; }
 
 #header-background {
-  min-height: 50%;
-  min-width: 100%;
+  min-height: 100%;
+  max-width: 95%;
   text-align: center;
   vertical-align: middle;
-  position: relative;
-  background-color: #4d8bea;
-  padding-top: 5%;
-  padding-bottom: 2%;
-  margin-top: -5%; }
+  position: relative; }
 
 #header {
   font-family: "Constrocktion", sans-serif;
@@ -27,10 +23,10 @@ body {
   position: relative;
   color: #91d4ff;
   font-size: 10vw;
-  padding-top: 4%;
   padding-bottom: 1%;
   margin-top: -5%;
-  letter-spacing: .6rem; }
+  letter-spacing: .6rem;
+  background-image: url("../img/mix01.png"); }
 
 .jumbotron {
   background-image: url("../img/class-photo.jpg");
@@ -40,7 +36,7 @@ body {
   background-size: cover;
   min-height: 600px;
   opacity: 0.5;
-  filter: alpha(opacity=100);
+  filter: alpha(opacity=50);
   /* For IE8 and earlier */ }
 
 /*# sourceMappingURL=main.css.map */
