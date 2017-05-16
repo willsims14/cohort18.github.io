@@ -25,7 +25,7 @@ body {
 
 #main {
     width: 100%;
-	height: 100%;    
+	height: 100%;
 }
 
 span {
@@ -154,6 +154,9 @@ left: 0;
     color: rgba(0, 0, 0, .4);
 }
 
-.meta a:hover {
-    color: rgba(0, 0, 0, .87);
+#github:hover {
+    color: #91d4ff;
+    border-width: thick;
+    border: 3px;
+
 }
