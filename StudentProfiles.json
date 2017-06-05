@@ -8,10 +8,10 @@
 	},
 	{
 		"name": "Adam Myers",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/adamProf.jpg"
+		"website": "",
+		"github": "https://github.com/ANMyers",
+		"linkedin": "https://www.linkedin.com/in/adam-myers-4444b5134/",
+		"image": "../app/img/headshots/finalindividual/adamProf.jpg"
 	},
 	{
 		"name": "Angela Lee",
