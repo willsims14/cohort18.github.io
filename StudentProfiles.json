@@ -1,10 +1,10 @@
  [
 	{
 		"name": "Aaron Barfoot",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/aaronProf.jpg"
+		"website": "https://barfootaaron.github.io/",
+		"github": "https://github.com/barfootaaron",
+		"linkedin": "https://www.linkedin.com/in/aaron-barfoot",
+		"image": "../app/img/headshots/finalindividual/aaronProf.jpg"
 	},
 	{
 		"name": "Adam Myers",
@@ -85,10 +85,10 @@
 	},
 	{
 		"name": "Jeremy Bakker",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jeremyProf.jpg"
+		"website": "https://jeremybakker.github.io/",
+		"github": "https://github.com/JeremyBakker",
+		"linkedin": "https://www.linkedin.com/in/jeremytbakker",
+		"image": "../app/img/headshots/finalindividual/jeremyProf.jpg"
 	},
 	{
 		"name": "Jessica Younker",
@@ -106,10 +106,10 @@
 	},
 	{
 		"name": "Justin Short",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/justinProf.jpg"
+		"website": "",
+		"github": "https://github.com/short880",
+		"linkedin": "https://www.linkedin.com/in/justin-short-3715a4141/",
+		"image": "../app/img/headshots/finalindividual/justinProf.jpg"
 	},
 	{
 		"name": "Kayla Brewer",
@@ -160,7 +160,7 @@
 		"linkedin": "https://www.linkedin.com/in/william-caldwell-385254140/",
 		"image": "../app/img/headshots/finalindividual/williamProf.jpg"
 	},
-    {
+    	{
 		"name": "Will Sims",
 		"website": "http://will-sims.com",
 		"github": "https://github.com/willsims14",
@@ -168,10 +168,10 @@
 		"image": "../app/img/headshots/finalindividual/willProf.jpg"
 	},
 	{
-		"name": "Zach Spence",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/zachProf.jpg"
+		"name": "Zachary Spence",
+		"website": "",
+		"github": "https://github.com/zakspence",
+		"linkedin": "https://www.linkedin.com/in/zachary-spence-7a70b8a2/",
+		"image": "../app/img/headshots/finalindividual/zachProf.jpg"
 	}
 ]
