@@ -29,17 +29,17 @@
 	},
 	{
 		"name": "Bri Wyatt",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/briProf.jpg"
+		"website": "",
+		"github": "https://github.com/briwyatt",
+		"linkedin": "https://www.linkedin.com/in/briwyatt/",
+		"image": "../app/img/headshots/finalindividual/briProf.jpg"
 	},
 	{
 		"name": "Casey Dailey",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/caseyProf.jpg"
+		"website": "",
+		"github": "https://github.com/caseydailey",
+		"linkedin": "https://www.linkedin.com/in/casey-dailey-43b37813b/",
+		"image": "../app/img/headshots/finalindividual/caseyProf.jpg"
 	},
 	{
 		"name": "Dara Thomas",
@@ -50,10 +50,10 @@
 	},
 	{
 		"name": "Dean Smith",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/deanProf.jpg"
+		"website": "http://deanthecodesmith.com/",
+		"github": "https://github.com/Deanomatic",
+		"linkedin": "https://www.linkedin.com/in/dean-smith-178246139/",
+		"image": "../app/img/headshots/finalindividual/deanProf.jpg"
 	},
 	{
 		"name": "Harper Frankstone",
@@ -92,10 +92,10 @@
 	},
 	{
 		"name": "Jessica Younker",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jessicaProf.jpg"
+		"website": "",
+		"github": "https://github.com/jessica-younker",
+		"linkedin": "https://www.linkedin.com/in/jessica-younker-600a6a/",
+		"image": "../app/img/headshots/finalindividual/jessicaProf.jpg"
 	},
 	{
 		"name": "Jordan Nelson",
@@ -120,10 +120,10 @@
 	},
 	{
 		"name": "Max Baldridge",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/maxProf.jpg"
+		"website": "",
+		"github": "https://github.com/maxwellcoriell",
+		"linkedin": "https://www.linkedin.com/in/maxwellcoriell/",
+		"image": "../app/img/headshots/finalindividual/maxProf.jpg"
 	},
 	{
 		"name": "Miriam Rozenbaum",
@@ -154,11 +154,11 @@
         "image": "../app/img/headshots/finalindividual/taylorProf.jpg"
 	},
 	{
-		"name": "William Caldwell",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/williamProf.jpg"
+		"name": "William O. Caldwell",
+		"website": "",
+		"github": "https://github.com/wocaldwell",
+		"linkedin": "https://www.linkedin.com/in/william-caldwell-385254140/",
+		"image": "../app/img/headshots/finalindividual/williamProf.jpg"
 	},
     {
 		"name": "Will Sims",
