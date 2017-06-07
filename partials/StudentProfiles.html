@@ -1,14 +1,43 @@
+
+	<div id="moving-text" class="row">
+		<p>We are</p>
+<b>
+  <span id="move">
+    web developers<br />
+    css cowboys<br />
+    python power rangers<br />
+    robot humans<br />
+    </span>
+</b>
+</div>
 <div class="row">
-	<div class="col-xs-4" style="margin-top: 2em; margin-bottom: 2em;"
+	<div class="col-sm-4 col-md-4 col-lg-6 mt-4" style="margin-top: 2em; margin-bottom: 2em;"
 			 ng-repeat="student in studentList"
 			 ng-mouseenter="currentProfileMouseover = $index"
 			 ng-mouseleave="currentProfileMouseover = null">
 
-		<div class="flex-container">
-			<div class="col-xs-10 col-xs-offset-1 thumbnail" style="margin: auto; width: 425px; height: 425px; background-color: lightgrey"><img src="{{student.image}}"/></div>
+		<!-- <div class="flex-container"> -->
+			<div class="card card-inverse card-info" style="border: 1px solid rgba(0, 0, 0, .05); font-size: 1em; overflow: hidden; padding: 0; border: none; border-radius: .28571429rem; box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5; border: 1px solid rgba(0, 0, 0, .05);">
+				<img class="card-img-top img-responsive" src="{{student.image}}" style="display: block; width: 100%; height: auto;"/>
+    		<div class="card-block" style="font-size: 1em; position: relative; margin: 0; padding: 1em; border: none; border-top: 1px solid rgba(34, 36, 38, .1); box-shadow: none;">
+				<!-- <figure class="profile profile-inline" style="position: absolute; top: -12px; display: inline-block; overflow: hidden; box-sizing: border-box; width: 25px; height: 25px; margin: 0; border: 1px solid #fff; border-radius: 50%; position: relative; top: 0; display: inline-block; margin-left: 4px; vertical-align: top;">
+						   <img src="http://success-at-work.com/wp-content/uploads/2015/04/free-stock-photos.gif" class="profile-avatar" alt="" style="display: block; width: 100%; height: auto; border-radius: 50%;"/>
+				</figure> -->
+				 <h4 class="card-title" style="font-size: 1.28571429em; font-weight: 700; line-height: 1.2857em;">{{student.name}}</h4>
+				 <div class="card-text" style="clear: both; margin-top: .5em; color: rgba(0, 0, 0, .68);">
+					 {{student.website}}
+				 </div>
+			</div>
+			<div class="card-footer" style=" font-size: 1em; position: static; top: 0; left: 0; max-width: 100%; padding: .75em 1em; color: rgba(0, 0, 0, .4); border-top: 1px solid rgba(0, 0, 0, .05) !important; background: #fff;">
+				<button class="btn btn-info btn-sm" style="border: 1px solid rgba(0, 0, 0, .05);">About</button>
+				<img id="github" src="../img/github2.svg" width="30px"/>
+				<img id="github" src="../img/linkedin.svg" width="30px"/>
 		</div>
-
-		<div class="flex-container">
+	</div>
+</div>
+</div>
+<!-- </div> -->
+		<!-- <div class="flex-container">
 			<div class="col-xs-10 col-xs-offset-1">
 				<uib-accordion ng-show="currentProfileMouseover === $index">
 					<div uib-accordion-group class="panel-default">
@@ -26,4 +55,4 @@
 			</div>
 		</div>
 	</div>
-</div>
+	</div> -->
