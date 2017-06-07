@@ -138,6 +138,7 @@ b {
 }
 .colr-col1 {
   background-color: #5A668B;
+  padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
@@ -146,6 +147,7 @@ b {
 
 .colr-col2 {
   background-color: #272727;
+  padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
@@ -154,27 +156,41 @@ b {
 
 .colr-col3 {
 background-color: #D4AA7D;
+padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
 }
 .colr-col4 {
 background-color: #EFD09E;
+  padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
 }
 .colr-col5 {
 background-color: #D2D8B3;
+padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
 }
 .colr-col6 {
 background-color: #90A9B7;
+padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
   width: 100%;
 }
+
+.img-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:75%;
+  width: 75%;
+
+} 
+
 
 /*# sourceMappingURL=main.css.map */
