@@ -22,12 +22,13 @@ span {
   position: relative; }
 
 #header {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'Quicksand', sans-serif;  color: #D1B4A7;
+  /*font-family: 'Dosis', sans-serif;*/
   text-align: center;
   vertical-align: middle;
   position: relative;
   color: #fff;
-  font-size: 7vw;
+  font-size: 8vw;
   margin-top: -2%;
   max-width: 100%;
   letter-spacing: .6rem;
@@ -44,8 +45,11 @@ span {
 
 #moving-text {
   padding: 2em 2em;
-  font: normal 40px/50px Arial, sans-serif;
-  color: #040351; }
+  font: normal 40px/50px 'Quicksand', sans-serif;
+
+  /*font: normal 40px/50px Arial, sans-serif;*/
+  color: #D2D8B3;
+  background-color: #272727; }
 
 p {
   height: 50px;
@@ -60,7 +64,7 @@ b {
 
 #move {
   display: inline-block;
-  color: #e74c3c;
+  color: #90A9B7;
   position: relative;
   white-space: nowrap;
   top: 0;
@@ -123,5 +127,54 @@ b {
   color: #91d4ff;
   border-width: thick;
   border: 3px; }
+
+.techheader{
+  background-color: #90A9B7;
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  height: 200px;
+  width: 100%;
+
+}
+.colr-col1 {
+  background-color: #5A668B;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+
+}
+
+.colr-col2 {
+  background-color: #272727;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+
+}
+
+.colr-col3 {
+background-color: #D4AA7D;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+}
+.colr-col4 {
+background-color: #EFD09E;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+}
+.colr-col5 {
+background-color: #D2D8B3;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+}
+.colr-col6 {
+background-color: #90A9B7;
+  color: #D1B4A7;
+  height: 400px;
+  width: 100%;
+}
 
 /*# sourceMappingURL=main.css.map */
