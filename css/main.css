@@ -3,7 +3,7 @@
   src: url("../app/fonts/constrocktion.ttf") format("truetype"); }
 html,
 body {
-  background: #E2E2E3;
+  background: #CCD6DC;
   width: 100%;
   height: 100%; }
 
@@ -21,6 +21,8 @@ span {
   vertical-align: middle;
   position: relative; }
 
+
+
 #header {
   font-family: 'Quicksand', sans-serif;  color: #D1B4A7;
   /*font-family: 'Dosis', sans-serif;*/
@@ -36,13 +38,24 @@ span {
   /* end of 4 level deep dark shadow */ }
 
 .jumbotron {
-  background-image: url("../img/robot-background-01-01.png");
+  background-image: url("../img/class-photo.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
+  opacity: .7;
   min-height: 650px; }
 
+.jumbotron2 {
+  background-image: url("../app/img/headshots/groupFun.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  opacity: .7;
+  min-height: 650px; }
+
+  
 #moving-text {
   padding: 2em 2em;
   font: normal 40px/50px 'Quicksand', sans-serif;
@@ -128,18 +141,24 @@ b {
   border-width: thick;
   border: 3px; }
 
+
+/*tech stack styling for rows and colum*/
 .techheader{
-  background-color: #90A9B7;
+  background-color: #D2D8B3;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
+  font-size: 80pt;
+  
   height: 200px;
   width: 100%;
 
 }
 .colr-col1 {
   background-color: #5A668B;
+  font-family: 'Josefin Sans', sans-serif;
   padding-top: 10%;
   color: #D1B4A7;
+  font-size: 40pt;
   height: 400px;
   width: 100%;
 
@@ -147,8 +166,10 @@ b {
 
 .colr-col2 {
   background-color: #272727;
+  font-family: 'Josefin Sans', sans-serif;
   padding-top: 10%;
-  color: #D1B4A7;
+  font-size: 40pt;
+  color: #5A668B;
   height: 400px;
   width: 100%;
 
@@ -156,8 +177,10 @@ b {
 
 .colr-col3 {
 background-color: #D4AA7D;
+font-family: 'Josefin Sans', sans-serif;
 padding-top: 10%;
-  color: #D1B4A7;
+font-size: 40pt;
+  color: #272727;;
   height: 400px;
   width: 100%;
 }
@@ -165,18 +188,23 @@ padding-top: 10%;
 background-color: #EFD09E;
   padding-top: 10%;
   color: #D1B4A7;
+  font-size: 40pt;
   height: 400px;
   width: 100%;
 }
 .colr-col5 {
 background-color: #D2D8B3;
+font-family: 'Josefin Sans', sans-serif;
 padding-top: 10%;
-  color: #D1B4A7;
+font-size: 40pt;
+  color: #90A9B7;
   height: 400px;
   width: 100%;
 }
 .colr-col6 {
-background-color: #90A9B7;
+background-color: #CCD6DC;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 40pt;
 padding-top: 10%;
   color: #D1B4A7;
   height: 400px;
@@ -191,6 +219,30 @@ padding-top: 10%;
   width: 75%;
 
 } 
+
+.img-logo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+} 
+
+.card-style {
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+
+
+}
+.ul_card_stuff li {
+  float: left;
+  width: 35%;
+  height: 75%;
+  padding-left: 8%;
+  padding-right: 8%;
+  display: inline;
+}
+
 
 
 /*# sourceMappingURL=main.css.map */
