@@ -1,0 +1,16 @@
+<div ng-controller="SpecialThanksCtrl">
+	<div class="row">
+		<div class="container techheader">
+			<p class="techheader">
+				Special Thanks
+			</p>	
+		</div>
+	</div>
+	<div class="row">
+		<div class="{{ teacher.classes }}"
+			  ng-repeat="teacher in specialThanksInfo">
+			<p class="text-center">{{ teacher.name }}</p>
+			<img class="{{ teacher.imgClasses }}" src="{{ teacher.imgPath }}">
+		</div>
+	</div>	
+</div>

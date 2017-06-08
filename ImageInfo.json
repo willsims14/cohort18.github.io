@@ -1,0 +1,92 @@
+[
+	{
+		"name": "Angular",
+		"imgPath": "../app/img/logo/Angular.svg",
+		"classes": "col-md-2 colr-col7"
+	},
+	{
+		"name": "Bootstrap",
+		"imgPath": "../app/img/logo/Bootstrap.svg",
+		"classes": "col-md-2 colr-col2"
+	},
+	{
+		"name": "Trello",
+		"imgPath": "../app/img/logo/Trello.svg",
+		"classes": "col-md-2 colr-col3"
+	},
+	{
+		"name": "SQLite",
+		"imgPath": "../app/img/logo/SQLite.svg",
+		"classes": "col-md-2 colr-col1"
+	},
+	{
+		"name": "Jasmine",
+		"imgPath": "../app/img/logo/Jasmine.svg",
+		"classes": "col-md-2 colr-col4"
+	},
+	{
+		"name": "Grunt",
+		"imgPath": "../app/img/logo/Grunt.svg",
+		"classes": "col-md-2 colr-col5"
+	},
+	{
+		"name": "Django",
+		"imgPath": "../app/img/logo/django-plain.svg",
+		"classes": "col-md-2 colr-col1"
+	},
+	{
+		"name": "HTML5",
+		"imgPath": "../app/img/logo/HTML5.svg",
+		"classes": "col-md-2 colr-col4"
+	},
+	{
+		"name": "Firebase",
+		"imgPath": "../app/img/logo/Firebase.svg",
+		"classes": "col-md-2 colr-col6"
+	},
+	{
+		"name": "Bower",
+		"imgPath": "../app/img/logo/Bower.svg",
+		"classes": "col-md-2 colr-col4"
+	},
+	{
+		"name": "Browserify",
+		"imgPath": "../app/img/logo/Browserify.svg",
+		"classes": "col-md-2 colr-col5"
+	},
+	{
+		"name": "Git",
+		"imgPath": "../app/img/logo/Git.svg",
+		"classes": "col-md-2 colr-col1"
+	},
+	{
+		"name": "Hadlebars",
+		"imgPath": "../app/img/logo/Handlebars.svg",
+		"classes": "col-md-2 colr-col8"
+	},
+	{
+		"name": "Github",
+		"imgPath": "../app/img/logo/Github.svg",
+		"classes": "col-md-2 colr-col7"
+	},
+	{
+		"name": "jQuery",
+		"imgPath": "../app/img/logo/jQuery.svg",
+		"classes": "col-md-2 colr-col3"
+	},
+	{
+		"name": "Materialize",
+		"imgPath": "../app/img/logo/materialize.svg",
+		"classes": "col-md-2 colr-col1"
+	},
+	{
+		"name": "NPM",
+		"imgPath": "../app/img/logo/NPM.svg",
+		"classes": "col-md-2 colr-col6"
+	},
+	{
+		"name": "Python",
+		"imgPath": "../app/img/logo/python-original.svg",
+		"classes": "col-md-2 colr-col7"
+	}
+]
