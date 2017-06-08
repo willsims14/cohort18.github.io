@@ -2,7 +2,7 @@
 "use strict";
 
 //All nested views get scope variable connected to this controller
-app.controller("HomeCtrl", function($scope, StudentProfiles) {
+app.controller("HomeCtrl", function($scope, StudentProfiles, ImageInfo) {
 	let s = $scope;
 
 	s.studentList = [];
@@ -19,4 +19,5 @@ app.controller("HomeCtrl", function($scope, StudentProfiles) {
 			s.studentList = newValue;
 		}
 	);
+
 });

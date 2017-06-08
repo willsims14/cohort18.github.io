@@ -1,0 +1,14 @@
+
+<div ng-controller="TechnologiesCtrl">
+	<div class="row">
+		<div class="container techheader">
+			<p class="text-center techheader">Technologies</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="{{img.classes}}"
+			  ng-repeat="img in imageInfo">
+			<img src="{{ img.imgPath }}" class="img-responsive img-logo">
+		</div>
+	 </div>
+</div>

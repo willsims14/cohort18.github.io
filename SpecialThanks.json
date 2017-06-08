@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Brenda",
+		"imgPath": "app/img/brenda.png",	
+		"classes": "col-md-3 colr-col1",
+		"imgClasses": "img-responsive img-logo2"
+	},
+	{
+		"name": "Steve",
+		"imgPath": "app/img/steve.png",	
+		"classes": "col-md-3 colr-col3",
+		"imgClasses": "img-logo2"
+	},
+	{
+		"name": "Gilbert",
+		"imgPath": "app/img/gilbert.png",	
+		"classes": "col-md-3 colr-col6",
+		"imgClasses": "img-logo2"
+	},
+	{
+		"name": "Meg",
+		"imgPath": "app/img/meg.png",	
+		"classes": "col-md-3 colr-col1",
+		"imgClasses": "img-logo2"
+	}
+]
