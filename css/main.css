@@ -5,7 +5,9 @@ html,
 body {
   background: #CCD6DC;
   width: 100%;
-  height: 100%; }
+  height: 100%;
+  font-family: 'Lato', sans-serif;
+}
 
 #main {
   width: 100%;
@@ -154,7 +156,7 @@ b {
 
 }
 .colr-col1 {
-  background-color: #5A668B;
+  background-color: #407C9D;
   font-family: 'Josefin Sans', sans-serif;
   padding-top: 10%;
   color: #D1B4A7;
@@ -176,7 +178,7 @@ b {
 }
 
 .colr-col3 {
-background-color: #D4AA7D;
+background-color: #90C2E7;
 font-family: 'Josefin Sans', sans-serif;
 padding-top: 10%;
 font-size: 40pt;
@@ -185,7 +187,7 @@ font-size: 40pt;
   width: 100%;
 }
 .colr-col4 {
-background-color: #EFD09E;
+background-color: #4E8098;
   padding-top: 10%;
   color: #D1B4A7;
   font-size: 40pt;
@@ -211,6 +213,28 @@ padding-top: 10%;
   width: 100%;
 }
 
+.colr-col7 {
+  background-color: #114B5F;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 40pt;
+padding-top: 10%;
+  color: #D1B4A7;
+  height: 200px;
+  width: 100%;
+
+}
+
+.colr-col8 {
+  background-color: #456990;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 40pt;
+padding-top: 10%;
+  color: #D1B4A7;
+  height: 200px;
+  width: 100%;
+
+}
+
 .img-logo {
   display: block;
   margin-left: auto;
@@ -222,6 +246,8 @@ padding-top: 10%;
 
 .img-logo2 {
   display: block;
+  width: 30%;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
   
@@ -230,7 +256,7 @@ padding-top: 10%;
 
 .card-style {
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lato', sans-serif;
 
 
 }
