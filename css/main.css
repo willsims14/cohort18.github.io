@@ -52,7 +52,7 @@ span {
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
-  opacity: .7;
+
   min-height: 650px; }
 
   
@@ -159,7 +159,7 @@ b {
   padding-top: 10%;
   color: #D1B4A7;
   font-size: 40pt;
-  height: 400px;
+  height: 200px;
   width: 100%;
 
 }
@@ -170,7 +170,7 @@ b {
   padding-top: 10%;
   font-size: 40pt;
   color: #5A668B;
-  height: 400px;
+  height: 200px;
   width: 100%;
 
 }
@@ -181,7 +181,7 @@ font-family: 'Josefin Sans', sans-serif;
 padding-top: 10%;
 font-size: 40pt;
   color: #272727;;
-  height: 400px;
+  height: 200px;
   width: 100%;
 }
 .colr-col4 {
@@ -189,7 +189,7 @@ background-color: #EFD09E;
   padding-top: 10%;
   color: #D1B4A7;
   font-size: 40pt;
-  height: 400px;
+  height: 200px;
   width: 100%;
 }
 .colr-col5 {
@@ -198,7 +198,7 @@ font-family: 'Josefin Sans', sans-serif;
 padding-top: 10%;
 font-size: 40pt;
   color: #90A9B7;
-  height: 400px;
+  height: 200px;
   width: 100%;
 }
 .colr-col6 {
@@ -207,7 +207,7 @@ font-family: 'Josefin Sans', sans-serif;
 font-size: 40pt;
 padding-top: 10%;
   color: #D1B4A7;
-  height: 400px;
+  height: 200px;
   width: 100%;
 }
 
