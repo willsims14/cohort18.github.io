@@ -1,4 +1,6 @@
+
 <div ng-controller="SpecialThanksCtrl">
+	<!-- HEADER -->
 	<div class="row">
 		<div class="container techheader">
 			<p class="techheader">
@@ -6,6 +8,7 @@
 			</p>	
 		</div>
 	</div>
+	<!-- TEACHER LOOP -->
 	<div class="row">
 		<div class="{{ teacher.classes }}"
 			  ng-repeat="teacher in specialThanksInfo">

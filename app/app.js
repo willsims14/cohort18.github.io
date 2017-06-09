@@ -11,8 +11,8 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 .service('StudentProfiles', function() {
 	this.studentArray = [];
 })
-.service('ImageInfo', function() {
-	this.imageInfo = [];
+.service('TechInfo', function() {
+	this.techInfo = [];
 })
 .service('SpecialThanks', function() {
 	this.specialThanks = [];
@@ -31,14 +31,9 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 			"": {
 				templateUrl: 'partials/Home.html',
 				controller: 'HomeCtrl'
-			},
-			//studentProfiles handles all of the individual profiles displayed on the page
-			"studentProfiles@home": {
-				templateUrl: 'partials/StudentProfiles.html',
-				controller: "StudentProfilesCtrl"
-				}
 			}
-		});
+		}
+	});
 })
 
 
@@ -48,15 +43,15 @@ var app = angular.module("ClassWebsite", ['ui.router', 'ui.bootstrap'])
 	There is a $s.$watch() that waits for this to be completed within HomeCtrl.js
 	The array gets iterated over within StudentProfiles.html
 */
-.run(($http, StudentProfiles, ImageInfo, SpecialThanks) => {
+.run(($http, StudentProfiles, TechInfo, SpecialThanks) => {
 
-	$http.get('../StudentProfiles.json').then(
+	$http.get('../json/StudentProfiles.json').then(
 			(studentProfilesJson) => {
 				StudentProfiles.studentArray = studentProfilesJson.data;
-				$http.get('../ImageInfo.json').then(
-					(imageInfoJson) => {
-						ImageInfo.imageInfo = imageInfoJson.data;
-						$http.get('../SpecialThanks.json').then(
+				$http.get('../json/TechInfo.json').then(
+					(techInfoJson) => {
+						TechInfo.techInfo = techInfoJson.data;
+						$http.get('../json/SpecialThanks.json').then(
 							(specialThanksInfo) => SpecialThanks.specialThanks = specialThanksInfo.data
 						);						
 					}
