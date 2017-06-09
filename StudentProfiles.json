@@ -15,17 +15,17 @@
 	},
 	{
 		"name": "Angela Lee",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/angelaProf.jpg"
+		"website": "",
+		"github": "https://github.com/leead4",
+		"linkedin": "https://www.linkedin.com/in/angelalee-615/",
+		"image": "../app/img/headshots/finalindividual/angelaProf.jpg"
 	},
 	{
 		"name": "Blaise Roberts",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/blaiseProf.jpg"
+		"webiste": "https://blaiseroberts.github.io/PersonalSite/",
+		"github": "https://github.com/BlaiseRoberts",
+		"linkedin": "https://www.linkedin.com/in/blaise-roberts-504121140/'",
+		"image": "../app/img/headshots/finalindividual/blaiseProf.jpg"
 	},
 	{
 		"name": "Bri Wyatt",
@@ -74,7 +74,7 @@
 		"website": "helanan.com",
 		"github": "https://github.com/helanan",
 		"linkedin": "https://www.linkedin.com/in/helananosrat/",
-        "image": "../app/img/headshots/finalindividual/helanaProf.jpg"
+		"image": "../app/img/headshots/finalindividual/helanaProf.jpg"
 	},
 	{
 		"name": "James Tonkin",
@@ -127,10 +127,10 @@
 	},
 	{
 		"name": "Miriam Rozenbaum",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/miriamProf.jpg"
+		"website": "",
+		"github": "https://github.com/mrozenbaum",
+		"linkedin": "https://www.linkedin.com/in/miriam-rozenbaum-250253103/",
+		"image": "../app/img/headshots/finalindividual/miriamProf.jpg"
 	},
 	{
 		"name": "Nick Nash",
@@ -148,10 +148,10 @@
 	},
 	{
 		"name": "Taylor Perkins",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/taylorProf.jpg"
+		"website": "",
+		"github": "https://github.com/taylorperkins",
+		"linkedin": "https://www.linkedin.com/in/taylor-perkins-b57ba3107/",
+		"image": "../app/img/headshots/finalindividual/taylorProf.jpg"
 	},
 	{
 		"name": "William O. Caldwell",
