@@ -141,10 +141,10 @@
 	},
 	{
 		"name": "Talbot Lawrence",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/talbotProf.jpg"
+		"website": "https://sftp-75181.firebaseapp.com/#!/",
+		"github": "https://github.com/talbotlawrence",
+		"linkedin": "https://www.linkedin.com/in/talbot-lawrence-23135539/",
+		"image": "../app/img/headshots/finalindividual/talbotProf.jpg"
 	},
 	{
 		"name": "Taylor Perkins",
