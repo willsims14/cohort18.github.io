@@ -10,9 +10,8 @@ app.controller("SpecialThanksCtrl", function($scope, $timeout, SpecialThanks) {
 	s.$watch(
 		() => { return SpecialThanks.specialThanks; },
 		(newValue, oldValue) => {
-			console.log(newValue, oldValue);
-			s.specialThanksInfo = newValue;			
-			if (s.imageInfo.length > 0) {
+			if (s.imageInfo !== undefined) {
+				s.specialThanksInfo = newValue;			
 				$timeout(function() {
 					s.specialThanksInfo.forEach((teacher) => {
 						console.log(teacher.name, teacher.teacherPath, teacher.classes, teacher.imgClasses);
