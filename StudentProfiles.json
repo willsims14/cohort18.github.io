@@ -64,10 +64,10 @@
 	},
 	{
 		"name": "Harry Epstein",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/harryProf.jpg"
+		"website": "harryepstein.me",
+		"github": "github.com/harryepstein",
+		"linkedin": "https://www.linkedin.com/in/harry-epstein-a84b7746",
+		"image": "../app/img/headshots/finalindividual/harryProf.jpg"
 	},
 	{
 		"name": "Helana Nosrat",
