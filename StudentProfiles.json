@@ -1,177 +1,177 @@
  [
 	{
 		"name": "Aaron Barfoot",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/aaronProf.jpg"
+		"website": "https://barfootaaron.github.io/",
+		"github": "https://github.com/barfootaaron",
+		"linkedin": "https://www.linkedin.com/in/aaron-barfoot",
+		"image": "../app/img/headshots/finalindividual/aaronProf.jpg"
 	},
 	{
 		"name": "Adam Myers",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/adamProf.jpg"
+		"website": "",
+		"github": "https://github.com/ANMyers",
+		"linkedin": "https://www.linkedin.com/in/adam-myers-4444b5134/",
+		"image": "../app/img/headshots/finalindividual/adamProf.jpg"
 	},
 	{
 		"name": "Angela Lee",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/angelaProf.jpg"
+		"website": "",
+		"github": "https://github.com/leead4",
+		"linkedin": "https://www.linkedin.com/in/angelalee-615/",
+		"image": "../app/img/headshots/finalindividual/angelaProf.jpg"
 	},
 	{
 		"name": "Blaise Roberts",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/blaiseProf.jpg"
+		"webiste": "https://blaiseroberts.github.io/PersonalSite/",
+		"github": "https://github.com/BlaiseRoberts",
+		"linkedin": "https://www.linkedin.com/in/blaise-roberts-504121140/'",
+		"image": "../app/img/headshots/finalindividual/blaiseProf.jpg"
 	},
 	{
 		"name": "Bri Wyatt",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/briProf.jpg"
+		"website": "http://www.briwyatt.com",
+		"github": "https://github.com/briwyatt",
+		"linkedin": "https://www.linkedin.com/in/briwyatt/",
+		"image": "../app/img/headshots/finalindividual/briProf.jpg"
 	},
 	{
 		"name": "Casey Dailey",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/caseyProf.jpg"
+		"website": "",
+		"github": "https://github.com/caseydailey",
+		"linkedin": "https://www.linkedin.com/in/casey-dailey-43b37813b/",
+		"image": "../app/img/headshots/finalindividual/caseyProf.jpg"
 	},
 	{
 		"name": "Dara Thomas",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/daraProf.jpg"
+		"website": "",
+		"github": "https://github.com/sarawithad",
+		"linkedin": "https://www.linkedin.com/in/darathomas/",
+		"image": "../app/img/headshots/finalindividual/daraProf.jpg"
 	},
 	{
 		"name": "Dean Smith",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/deanProf.jpg"
+		"website": "http://deanthecodesmith.com/",
+		"github": "https://github.com/Deanomatic",
+		"linkedin": "https://www.linkedin.com/in/dean-smith-178246139/",
+		"image": "../app/img/headshots/finalindividual/deanProf.jpg"
 	},
 	{
 		"name": "Harper Frankstone",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/harperProf.jpg"
+		"website": "",
+		"github": "https://github.com/hfrankst",
+		"linkedin": "https://www.linkedin.com/in/harper-frankstone-837849a3/",
+		"image": "../app/img/headshots/finalindividual/harperProf.jpg"
 	},
 	{
 		"name": "Harry Epstein",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/harryProf.jpg"
+		"website": "harryepstein.me",
+		"github": "github.com/harryepstein",
+		"linkedin": "https://www.linkedin.com/in/harry-epstein-a84b7746",
+		"image": "../app/img/headshots/finalindividual/harryProf.jpg"
 	},
 	{
 		"name": "Helana Nosrat",
 		"website": "helanan.com",
 		"github": "https://github.com/helanan",
 		"linkedin": "https://www.linkedin.com/in/helananosrat/",
-        "image": "../app/img/headshots/finalindividual/helanaProf.jpg"
+		"image": "../app/img/headshots/finalindividual/helanaProf.jpg"
 	},
 	{
 		"name": "James Tonkin",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jamesProf.jpg"
+		"website": "http://jwtonkin.com/",
+		"github": "https://github.com/jamestonkin",
+		"linkedin": "https://www.linkedin.com/in/james-tonkin/",
+		"image": "../app/img/headshots/finalindividual/jamesProf.jpg"
 	},
 	{
 		"name": "Jeremy Bakker",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jeremyProf.jpg"
+		"website": "https://jeremybakker.github.io/",
+		"github": "https://github.com/JeremyBakker",
+		"linkedin": "https://www.linkedin.com/in/jeremytbakker",
+		"image": "../app/img/headshots/finalindividual/jeremyProf.jpg"
 	},
 	{
 		"name": "Jessica Younker",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jessicaProf.jpg"
+		"website": "",
+		"github": "https://github.com/jessica-younker",
+		"linkedin": "https://www.linkedin.com/in/jessica-younker-600a6a/",
+		"image": "../app/img/headshots/finalindividual/jessicaProf.jpg"
 	},
 	{
 		"name": "Jordan Nelson",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/jordanProf.jpg"
+		"website": "http://digitalmarshmellow.com/",
+		"github": "http://github.com/jnelsontn",
+		"linkedin": "https://linkedin.com/in/jnelsontn",
+		"image": "../app/img/headshots/finalindividual/jordanProf.jpg"
 	},
 	{
 		"name": "Justin Short",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/justinProf.jpg"
+		"website": "",
+		"github": "https://github.com/short880",
+		"linkedin": "https://www.linkedin.com/in/justin-short-3715a4141/",
+		"image": "../app/img/headshots/finalindividual/justinProf.jpg"
 	},
 	{
 		"name": "Kayla Brewer",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/kaylaProf.jpg"
+		"website": "http://www.kaylabrewer.com/",
+		"github": "https://github.com/kayrahbear",
+		"linkedin": "https://www.linkedin.com/in/kbrewertn/",
+		"image": "../app/img/headshots/finalindividual/kaylaProf.jpg"
 	},
 	{
 		"name": "Max Baldridge",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/maxProf.jpg"
+		"website": "",
+		"github": "https://github.com/maxwellcoriell",
+		"linkedin": "https://www.linkedin.com/in/maxwellcoriell/",
+		"image": "../app/img/headshots/finalindividual/maxProf.jpg"
 	},
 	{
 		"name": "Miriam Rozenbaum",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/miriamProf.jpg"
+		"website": "",
+		"github": "https://github.com/mrozenbaum",
+		"linkedin": "https://www.linkedin.com/in/miriam-rozenbaum-250253103/",
+		"image": "../app/img/headshots/finalindividual/miriamProf.jpg"
 	},
 	{
 		"name": "Nick Nash",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/nickProf.jpg"
+		"website": "nicknashdev.com",
+		"github": "https://github.com/thenicknash",
+		"linkedin": "https://www.linkedin.com/in/nicholas-nash-18a445a0/",
+		"image": "../app/img/headshots/finalindividual/nickProf.jpg"
 	},
 	{
 		"name": "Talbot Lawrence",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/talbotProf.jpg"
+		"website": "https://sftp-75181.firebaseapp.com/#!/",
+		"github": "https://github.com/talbotlawrence",
+		"linkedin": "https://www.linkedin.com/in/talbot-lawrence-23135539/",
+		"image": "../app/img/headshots/finalindividual/talbotProf.jpg"
 	},
 	{
 		"name": "Taylor Perkins",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/taylorProf.jpg"
+		"website": "",
+		"github": "https://github.com/taylorperkins",
+		"linkedin": "https://www.linkedin.com/in/taylor-perkins-b57ba3107/",
+		"image": "../app/img/headshots/finalindividual/taylorProf.jpg"
 	},
 	{
-		"name": "William Caldwell",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/williamProf.jpg"
+		"name": "William O. Caldwell",
+		"website": "",
+		"github": "https://github.com/wocaldwell",
+		"linkedin": "https://www.linkedin.com/in/william-caldwell-385254140/",
+		"image": "../app/img/headshots/finalindividual/williamProf.jpg"
 	},
-    {
+    	{
 		"name": "Will Sims",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/willProf.jpg"
+		"website": "http://will-sims.com",
+		"github": "https://github.com/willsims14",
+		"linkedin": "https://www.linkedin.com/in/willsimsiii/",
+		"image": "../app/img/headshots/finalindividual/willProf.jpg"
 	},
 	{
-		"name": "Zach Spence",
-		"website": "studentwebsite.com",
-		"github": "studentgithub.com",
-		"linkedin": "studentlinkedin.com",
-        "image": "../app/img/headshots/finalindividual/zachProf.jpg"
+		"name": "Zachary Spence",
+		"website": "",
+		"github": "https://github.com/zakspence",
+		"linkedin": "https://www.linkedin.com/in/zachary-spence-7a70b8a2/",
+		"image": "../app/img/headshots/finalindividual/zachProf.jpg"
 	}
 ]
