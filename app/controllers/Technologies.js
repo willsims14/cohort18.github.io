@@ -1,8 +1,7 @@
 
 "use strict";
 
-//All nested views get scope variable connected to this controller
-app.controller("TechnologiesCtrl", function($scope, $timeout, TechInfo) {
+app.controller("TechnologiesCtrl", function($scope, TechInfo) {
 	let s = $scope;
 
 	s.techInfo = [];

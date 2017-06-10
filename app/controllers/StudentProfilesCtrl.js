@@ -1,3 +1,4 @@
+
 "use strict";
 
 app.controller("StudentProfilesCtrl", function($scope, StudentProfiles) {
@@ -14,9 +15,7 @@ app.controller("StudentProfilesCtrl", function($scope, StudentProfiles) {
 	s.$watch(
 		() => { return StudentProfiles.studentArray; },
 		(newValue, oldValue) => {
-			if (newValue !== undefined) {
-				s.studentList = newValue;				
-			}
+			s.studentList = newValue;							
 		}
 	);
 });
