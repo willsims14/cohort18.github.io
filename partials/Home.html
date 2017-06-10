@@ -1,10 +1,6 @@
-<div class="row">
-</div>
-<div class="row">
-	<!-- StudentProfiles.html -->
-	<div ui-view="studentProfiles"></div>
-</div>
 
+<div ng-include="'../partials/WeAre.html'" scope="" onload=""></div>
+
+<div ng-include="'../partials/StudentProfiles.html'" scope="StudentProfilesCtrl" onload=""></div>
 <div ng-include="'../partials/Technologies.html'" scope="TechnologiesCtrl" onload=""></div>
 <div ng-include="'../partials/SpecialThanks.html'" scope="SpecialThanksCtrl" onload=""></div>
-

@@ -1,14 +1,17 @@
 
 <div ng-controller="TechnologiesCtrl">
+	<!-- HEADER -->
 	<div class="row">
 		<div class="container techheader">
 			<p class="text-center techheader">Technologies</p>
 		</div>
 	</div>
+
+	<!-- TECH LOOP -->
 	<div class="row">
-		<div class="{{img.classes}}"
-			  ng-repeat="img in imageInfo">
-			<img src="{{ img.imgPath }}" class="img-responsive img-logo">
+		<div class="{{tech.classes}}"
+			  ng-repeat="tech in techInfo">
+			<img src="{{ tech.imgPath }}" class="img-responsive img-logo">
 		</div>
 	 </div>
 </div>
